@@ -1,6 +1,6 @@
 #  Cybersecurity Write-ups
 
-Este repositorio contiene mis **write-ups** y soluciones de máquinas de ciberseguridad (Hack The Box, TryHackMe, VulnHub, CyberDefenders, etc.).
+Este repositorio contiene mis **write-ups** y soluciones de máquinas de ciberseguridad (Hack The Box, TryHackMe, LetsDefend, CyberDefenders, etc.).
 
 El objetivo es documentar mi aprendizaje y mantener un registro de las técnicas y metodologías que voy aprendiendo. 
 
